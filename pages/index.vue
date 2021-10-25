@@ -1,0 +1,15 @@
+<template>
+  <div>
+    <Header />
+    <Home />
+    <Footer />
+  </div>
+</template>
+
+<script>
+export default {}
+</script>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+</style>
